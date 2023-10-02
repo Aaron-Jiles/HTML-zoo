@@ -1,0 +1,27 @@
+body  { background-color: forestgreen;
+}
+  h1 {font-size: 32px}
+
+    a1 {color:rgb(5, 48, 83);
+      text-decoration: underline;font-size: 28px; font-family: sans-serif;font-style: italic;text-decoration-color:  pink; text-decoration-style: wavy;}
+    ol1 {color: rgb(5, 48, 83);font-size: 28px;text-decoration: line-through;text-decoration-style:dotted ;}
+  h2 {font-size: 32px}
+
+    a2 {color: aqua; font-size: 28px;text-decoration: line-through; text-decoration-style: wavy;text-decoration-color: azure;text-decoration-line: underline;}
+    ol2 {color: aqua;font-size: 28px;}
+
+  h3 {font-size: 32px;}
+    
+    a3 {font-size:28px; color: gold;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-decoration:underline; text-decoration-color: black;text-decoration-line: underline;}
+    ol3 {font-size: 28px; color:coral;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+  h4 {font-size: 32px;}
+    a4 {font-style:oblique; font-size: 28px; color: burlywood; text-decoration-style: dashed;
+       text-decoration: underline;}
+
+    ol4 {font-style:oblique; font-size: 28px; color: burlywood; text-decoration-style: dashed;
+        text-decoration: underline;}
+  
+  h5 {font-size: 32px;}
+    a5 {color: fuchsia;font-style: unset; font-size: 28px;}
+    ol5 {color: fuchsia; font-size: 28px; text-decoration: line-through;text-decoration-style: dashed;}
